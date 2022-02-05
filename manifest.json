@@ -1,0 +1,43 @@
+{
+    "manifest_version": 2,
+    "version": "1.1",
+    "name": "coffee",
+    "short_name": "coffee",
+    "author": "Ari Archer",
+    "description": "Coffee is a nice, warm colour scheme for software based of gruvbox which is light on eye strain and feels warm and cozy -- firefox",
+    "theme": {
+        "images": {
+            "additional_backgrounds": [
+                "images/background.svg"
+            ]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "top"
+            ],
+            "additional_backgrounds_tiling": [
+                "repeat"
+            ]
+        },
+        "colors": {
+            "toolbar": "rgb(38, 34, 32)",
+            "toolbar_text": "rgb(221, 208, 192)",
+            "frame": "rgb(38, 34, 32)",
+            "tab_background_text": "rgb(187, 187, 187)",
+            "toolbar_field": "rgb(38, 34, 33)",
+            "toolbar_field_text": "rgb(221, 208, 192)",
+            "tab_line": "rgb(49, 44, 41)",
+            "popup": "rgb(38, 34, 32)",
+            "popup_text": "rgb(221, 208, 192)",
+            "ntp_background": "rgb(38, 34, 32)",
+            "tab_loading": "rgb(40, 40, 40)",
+            "tab_selected": "rgb(40, 40, 40)",
+            "tab_text": "rgb(221, 208, 192)"
+        }
+    },
+    "icons": {
+        "48": "images/icon48.png",
+        "64": "images/icon64.png",
+        "96": "images/icon96.png"
+    }
+}
