@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "1.1",
+    "version": "1.2",
     "name": "coffee",
     "short_name": "coffee",
     "author": "Ari Archer",
@@ -27,11 +27,19 @@
             "toolbar_field": "rgb(38, 34, 33)",
             "toolbar_field_text": "rgb(221, 208, 192)",
             "tab_line": "rgb(49, 44, 41)",
+            "tab_background_separator": "rgb(49, 44, 41)",
             "popup": "rgb(38, 34, 32)",
+            "popup_border": "rgb(40, 40, 40)",
+            "popup_highlight": "rgb(40, 40, 40)",
+            "popup_highlight_text": "rgb(231, 218, 200)",
             "popup_text": "rgb(221, 208, 192)",
             "ntp_background": "rgb(38, 34, 32)",
+            "background": "rgb(38, 34, 32)",
+            "bookmark_text": "rgb(221, 208, 192)",
             "tab_loading": "rgb(40, 40, 40)",
             "tab_selected": "rgb(40, 40, 40)",
+            "icons": "rgb(40, 40, 40)",
+            "icons_attention": "rgb(221, 208, 192)",
             "tab_text": "rgb(221, 208, 192)"
         }
     },
