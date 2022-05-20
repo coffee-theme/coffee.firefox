@@ -9,5 +9,5 @@ warm and cozy
 # Installation
 
 Just install the firefox theme from firefox store:
-https://addons.mozilla.org/en-US/firefox/addon/coffee_theme_firefox/
+https://addons.mozilla.org/en-US/firefox/addon/coffee_theme/
 
